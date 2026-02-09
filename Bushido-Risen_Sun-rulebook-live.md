@@ -5,7 +5,7 @@ Bushido is an exciting skirmish game designed for two players using exquisite 32
 # Getting ready
 For a game of Bushido, each player will need:
 - A copy of these rules.
-- A set of Bushido miniatures and their cards. 
+- A set of Bushido miniatures and their cards.
 - A tape measure or a measuring ‘Widget’.
 - At least ten six-sided (D6) dice in two different colours. Five in one colour, and five in another.
 - Several coins, chips, or dice to track a model’s Ki Tokens during play; some people like to use ten-sided dice for this.
@@ -29,18 +29,18 @@ Counters: Counters are named for the effect that requires them and may be used t
 
 Cover: A model benefits from Cover from an Enemy model if any straight line from the Enemy passes through an Obscuring or Blocking terrain element that is within 1” of the Target model.
 
-Damage: A model is Damaged or takes Damage when it suffers wounds or its wound boxes are marked. Model A deals damage or causes damage when a model has wound boxes marked due to an effect on model A or an action taken by model A. 
+Damage: A model is Damaged or takes Damage when it suffers wounds or its wound boxes are marked. Model A deals damage or causes damage when a model has wound boxes marked due to an effect on model A or an action taken by model A.
 
-Damage Roll: A roll using 2D6, applying any negative or positive modifiers then cross-referencing on the Wound Table (p.45) in the column equal to the Success Level of the test, to see the number of wounds inflicted on a model. 
+Damage Roll: A roll using 2D6, applying any negative or positive modifiers then cross-referencing on the Wound Table (p.45) in the column equal to the Success Level of the test, to see the number of wounds inflicted on a model.
 
-Deploy: When a model is first put into play it is Deployed onto the battlefield.  After Terrain is Set Up, any effects that add more terrain to the battlefield may also say they are deployed. This is not a Move or Place. A model may not be Deployed into BtB with an Enemy model or in an Enemy Model’s ZoC (pg.10). (Terrain instead follows the Terrain Rules and any restrictions for the effect putting terrain into play). Models are Deployed with no Activation Counters.
+Deploy: When a model is first put into play it is Deployed onto the battlefield.  After Terrain is Set Up, any effects that add more terrain to the battlefield may also say they are deployed. This is not a Move or Place. A model may not be Deployed into BtB with an Enemy model or in an Enemy Model’s ZoC (pg.11). (Terrain instead follows the Terrain Rules and any restrictions for the effect putting terrain into play). Models are Deployed with no Activation Counters.
 
-Dice Rolls: Bushido uses ordinary six-sided dice. When a dice is rolled, the number given is referred to as the value on the dice. We use dice in the following ways: 
+Dice Rolls: Bushido uses ordinary six-sided dice. When a dice is rolled, the number given is referred to as the value on the dice. We use dice in the following ways:
 D6: The number shown on a single six-sided dice roll
 2D6: Two dice added together to give a value between 2 and 12
 D3: Roll a D6. A roll of 1-2=1, 3-4=2, 5-6=3.
 D2: Roll a D6. A roll of 1-3=1, 4-6=2.
-Some abilities call for a coin flip; this can be represented with a D2 if needed. In some instances a random model or other element may need to be selected, any straightforward method should suffice; assigning each a number then rolling a dice should also work. 
+Some abilities call for a coin flip; this can be represented with a D2 if needed. In some instances a random model or other element may need to be selected, any straightforward method should suffice; assigning each a number then rolling a dice should also work.
 
 Effects: This is a catch-all term for various rules including Ki Feats, Theme bonuses, Unique Effects, Event Cards or others. Usually, for timing we say “Effects that happen in this phase” or similar; this means any rule that says it happens in that phase.
 
@@ -52,7 +52,7 @@ Entering: During any move, the first time a model comes into contact with an are
 
 Exhausted: A model with no Activation Counters is considered Exhausted
 
-Facing: A model’s Facing line is directly in the centre of the front of its base. It should be marked with a line or dot on the model’s base. Ninety degrees either side of a model’s facing line shows its Front Arc and should be marked on the model’s base with lines or dots. 
+Facing: A model’s Facing line is directly in the centre of the front of its base. It should be marked with a line or dot on the model’s base. Ninety degrees either side of a model’s facing line shows its Front Arc and should be marked on the model’s base with lines or dots.
 A model is Facing anything forward of its Front Arc.
 A model is Directly Facing anything in front of its facing line.
 
@@ -88,7 +88,7 @@ If an effect requires dice to be substituted, the value of the dice is often fix
 
 Movement: Movement is measured using a tape measure (Or other measuring devices). If a model must move Toward another game element (such as another model or Terrain piece), then it cannot increase its distance from that element for any part of its movement. If it must move Directly Toward a game element, then it can only move in a straight line drawn from the centre of its base to the centre of the game element. Similarly, a model which must move Away cannot decrease its distance from that element for any part of its movement. If it must move Directly Away from a game element, then it can only move in a straight line drawn from the centre of its base away from the centre of the game element. An activating model can only enter BtB with one Enemy model per activation.
 
-Open and Hidden Information: In Bushido, all information is ‘open’ unless explicitly stated otherwise; it means that both players are entitled to read any rules, stats, model cards, special cards or any other information pertinent to the game, unless the rules explicitly state the information is hidden. Each player’s Hidden Information should be recorded on one sheet of paper and handed over after the game. If you have a third party, they can be used to check secret information during the game to make sure no mistakes happen. 
+Open and Hidden Information: In Bushido, all information is ‘open’ unless explicitly stated otherwise; it means that both players are entitled to read any rules, stats, model cards, special cards or any other information pertinent to the game, unless the rules explicitly state the information is hidden. Each player’s Hidden Information should be recorded on one sheet of paper and handed over after the game. If you have a third party, they can be used to check secret information during the game to make sure no mistakes happen.
 
 Owner: A model’s owner is the player who initially recruited the model into their Warband or summoned the model, ignoring any control markers or game effects.
 
@@ -185,7 +185,7 @@ The Silverback’s trait Bodyguard[Aiko](3”) works on her because her name is 
 An Enemy Kyuubi would gain the bonus for Vengeance because she is a Shugenja.
 She can be included in the Righteous Warriors theme because she is a Monk.
 In addition, she is Unsui and so not a model affected by Ume’s Mentor rule. Example: Both Kintaru and Fishermen of the Ro-Kan are Fisherman models. Kintaru, because he has it in his type, Fisherman of the Ro-Kan because it’s in the name.
-  d) Ki Statistic/Maximum Ki Limit: The Ki statistic is actually 2 statistics represented by 2 numbers written X/Y. The X number is the model’s Ki statistic. This tells you the amount of Ki Tokens each model represented by this card generates during the Starting Phase and the number of dice it uses for Opposed and Challenge Ki tests. 
+  d) Ki Statistic/Maximum Ki Limit: The Ki statistic is actually 2 statistics represented by 2 numbers written X/Y. The X number is the model’s Ki statistic. This tells you the amount of Ki Tokens each model represented by this card generates during the Starting Phase and the number of dice it uses for Opposed and Challenge Ki tests.
  The second Y number is the model’s Ki Limit, the maximum number of Ki Tokens each model represented by this card can have at any one time. If it would gain more than this, any excess is discarded.
 6. Wounds Track: The number of wounds a model can suffer. When a model suffers wounds an equal amount are marked from its Wound Track. When a model is reduced to 0 wounds remaining on its Wound Track it is Killed; remove the model from the table. When a model Heals wounds, it recovers marked wounds from its Wound Track. A model cannot Heal more than it has marked wounds. 
 Some cards have multiple Wound Tracks to use for multiple identical models. The number of Wound Tracks is the limit to how many of these models you may recruit or Summon into a Warband, either at Warband Creation or during the game.
@@ -238,7 +238,7 @@ Exclusion [Type]: This card cannot be Attached to this type of model.
 ### Event Cards
 Event cards are played once, at a time detailed on the card. Once the card is resolved, then it is discarded and removed from the game. 
 Unless stated otherwise Event Cards are used in the same way as Instant Ki Feats (p.56). They are not, however, considered to be Ki Feats.
-Some event cards may result in another special card being put into play, often as a result of some action on the table. In these cases, the other special card will be printed on the reverse side of the Event card and can only be recruited in this way. 
+Some event cards may result in another special card being put into play, often as a result of some action on the table. In these cases, the other special card will be printed on the reverse side of the Event card and can only be recruited in this way.
 
 Event Card Traits:
 Max (X): This card can be purchased for a Warband up to X times.
@@ -318,7 +318,7 @@ a) Ronin models can be included in Warbands of multiple different factions. Roni
 b) Ronin are NOT considered to be of the faction of the Warband they are recruited into for game effects. If an effect specifies it works only on Faction models, then it does not work on Ronin. 
 c) Ronin can only have Ronin Enhancement cards and cannot be included in any Faction theme lists unless the theme specifies Ronin of that type.
 d) Ronin can be included in Ronin Theme Lists.
-e) It is permissible to make a list for a given faction that includes only Ronin models that work for that Faction, but when creating a Warband, you cannot choose Ronin as your Faction. 
+e) It is permissible to make a list for a given faction that includes only Ronin models that work for that Faction, but when creating a Warband, you cannot choose Ronin as your Faction.
 
 Example: A Prefecture list using the Blood of the Dragon theme can include Samurai but cannot include Golden Sentinel models as the theme does not include Ronin Samurai.
 Example: It is possible to create a Warband entirely made of Ronin. First choose a faction (Prefecture, Ito, etc…) and choose Ronin available to that faction. It is not a “Ronin Faction” list as this is not permitted.
@@ -469,7 +469,7 @@ Example: Wu-Zang has a base melee pool of 1. In a melee exchange, Wu-Zang is Exh
 Remember that two numbers represent a model’s Ki, the Ki Statistic and the Maximum Ki Limit. When conducting tests relying on the Ki Statistic, the Maximum Ki Limit is not relevant.
 
 
-Example: Hanzo has a Ki Statistic of 2 and a Maximum Ki Limit of 6, represented as 2/6 on his profile card. When Hanzo takes a test relying on the Ki Statistic, his dice pool is two before any modifiers. 
+Example: Hanzo has a Ki Statistic of 2 and a Maximum Ki Limit of 6, represented as 2/6 on his profile card. When Hanzo takes a test relying on the Ki Statistic, his dice pool is two before any modifiers.
 
 When declaring the use of Ki Feats (Including Ki Boosts) during any test, the Opponent declares first and the Activating model or the Model with the Initiative if in a Melee Exchange, declares second.
 
@@ -498,7 +498,7 @@ These type of tests require one model to roll a number of dice equal to the Stat
 2. Roll the dice and conduct any re-rolls.
 3. Remove any dice with a value of 1.
 4. Apply any modifiers necessary to the highest dice result rolled. Next, up to two additional dice that were not removed contribute +1 per dice to the final result of the roll. These additional dice are called Supporting Dice.
-5. The final result is then compared to the Challenge Number; if the Result equals or exceeds the Challenge Number, the Challenge Test is Successful. For tests requiring a Success Level, the difference between the final result and the Challenge Number is the Success Level for the test. 
+5. The final result is then compared to the Challenge Number; if the Result equals or exceeds the Challenge Number, the Challenge Test is Successful. For tests requiring a Success Level, the difference between the final result and the Challenge Number is the Success Level for the test.
 
 ## Size Challenge Tests
 A Size Challenge Test is a Challenge Test using a model’s Size in place of a Statistic. A model taking a Size Challenge Test rolls a number of dice based on its size as shown in the table below. Modifiers are then applied to the result of the roll if applicable.
@@ -526,7 +526,7 @@ Fear tests are Challenge tests using the model’s Ki Statistic. Any effects tha
 Models with the Fear (X) trait, automatically pass Fear tests with a Challenge Number equal to or lower than their Fear (X) trait. They still take a Fear test if the Challenge Number is higher than their Fear (X) trait.
 Resolve a Fear Test when:
 1. An Activating model declares an action or effect that would bring it into BtB with an Enemy model with the Fear trait. If the Activating model fails the Fear test, regardless of the action declared, remove one activation counter, and its activation ends. It does not enter the Frightened State.
-2. An Activating model with the Fear trait declares an action that would bring it into BtB with an Enemy model. If the Enemy model fails its Fear test then it enters the Frightened State 
+2. An Activating model with the Fear trait declares an action that would bring it into BtB with an Enemy model. If the Enemy model fails its Fear test then it enters the Frightened State
 
 # Ranged Attacks
 A model must have a ranged weapon to make a Ranged Attack. A Ranged Attack is a type of Challenge Test, and the usual rules apply. During a Ranged Attack the use of Instant and Active Ki Feats, as well as Effects that can be used as Instants, is restricted. A model making a Ranged Attack may be referred to as “The Attacker”.
@@ -652,20 +652,20 @@ Use the following steps to resolve a Melee Exchange:
 5. Once the players have calculated their dice pools, they must both secretly decide how to allocate the dice between Attack and Defence. If players are using a Special Attack or Special Defence, then they must secretly remove a number of dice from their pool equal to the cost of the Special Attack or Defence (p.47).
 Also include the use of any effects, including Instant (or Active for the active player) Ki Feats, which alter the cost of Attacks or Defences, or add additional Attacks or Defences.
 The Dice allocation, choice of Special Ability, and any additional choices gained are Hidden Information until simultaneously revealed.
-6. Once both players have allocated their dice: 
-  a) Declare the use of any effects used which alter the cost of Attacks or Defences or add additional Attacks or Defences (You will have secretly decided the use of these abilities in Step 5). 
+6. Once both players have allocated their dice:
+  a) Declare the use of any effects used which alter the cost of Attacks or Defences or add additional Attacks or Defences (You will have secretly decided the use of these abilities in Step 5).
   b) Announce simultaneously if they are using a Special Attack or Defence.
   c) Remember a model can only use one Special Attack or Defence, not both types.
 7.
-  a) If the models are still in BtB both players roll all their dice simultaneously; otherwise, the melee action ends now, the Activating model removes an activation counter. 
+  a) If the models are still in BtB both players roll all their dice simultaneously; otherwise, the melee action ends now, the Activating model removes an activation counter.
   b) Perform any re-rolls in the order given in Conducting Re-rolls (p.32), then remove or add dice last. See for example Unblockable, Impenetrable Defence traits.
 8. Both players then calculate their final Attack and Defence results by selecting the highest dice of each type (Defence and Attack), each player then collects up to two dice rolled of each type (Attack & Defence) which were not 1’s. Each of these supporting dice will add +1 to the highest dice rolled. The players apply any modifiers from traits and effects to their highest dice rolled to get their model’s final Attack and Defence results.
   a) Remember, if a player rolls no dice of one type then their final result of that type is 0. If a player rolls no Attack dice, then no Damage Roll is made in Step 9.
 9. If no dice are allocated to Attack, any Special Attacks do not trigger. 
 If no dice are allocated to Defence, any Special Defences do not trigger. 
 Any dice that are 1’s are not counted towards resolving the test but still count towards the player having allocated dice in the appropriate dice pool.
-10. The Attacker compares its final Attack result against the Defender’s final Defence result, using Tiebreakers if necessary Note: when checking which player has the most dice for tiebreakers, count all attack and defence dice (That did not roll 1s) for both players towards tiebreakers for both attack and defence. 
-  a) If the Attacker was successful apply the effects of any Special Attacks used by the Attacker and move to Step 11. 
+10. The Attacker compares its final Attack result against the Defender’s final Defence result, using Tiebreakers if necessary Note: when checking which player has the most dice for tiebreakers, count all attack and defence dice (That did not roll 1s) for both players towards tiebreakers for both attack and defence.
+  a) If the Attacker was successful apply the effects of any Special Attacks used by the Attacker and move to Step 11.
   b) If the Defender was successful apply any Special Defences used by the Defender. If this results in either model being removed from the table, the defender no longer being in BtB with the Attacker, or the defender becoming Prone, skip to Step 14 otherwise move to Step 13.
 11. The players declare the use of any Instant (or Active for the active player) Ki Feats for models involved in the Melee Exchange.
 12. The Attacker makes a Damage Roll against the Defender and resolves any effects triggered by damage in melee. If at the end of this step either the Defender model is removed from the table, is no longer in BtB with the Attacker, or is Prone skip to Step 14.
@@ -688,7 +688,7 @@ Any dice that are 1’s are not counted towards resolving the test but still cou
 Models in Melee Exchanges suffer a -1 modifier for each Enemy model in BtB with which they are not currently resolving a Melee Exchange, and which is not also in BtB with a Friendly model. The enemy model is said to be Assisting the Melee.
 
 # Wound Table
-The Success Level indicates which column of the Wound Table the player should consult. The player then makes a Damage Roll using 2D6, adding together results along with any positive or negative modifiers, the result of which determines which row to use to find the number of wounds inflicted by the attack. 1’s are not failures when making a Damage Roll. If the final result would be less than 2, treat it as 2. If the final result would be higher than 12, treat it as 12. 
+The Success Level indicates which column of the Wound Table the player should consult. The player then makes a Damage Roll using 2D6, adding together results along with any positive or negative modifiers, the result of which determines which row to use to find the number of wounds inflicted by the attack. 1’s are not failures when making a Damage Roll. If the final result would be less than 2, treat it as 2. If the final result would be higher than 12, treat it as 12.
 
 Success Level
 | 2D6 |   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |
@@ -717,7 +717,7 @@ A model may only perform one Special Attack or Defence per Melee Exchange or Ran
 Some special Abilities can cause models to move when successful. All movement from Special Abilities ignore enemy model’s ZoC and being in BtB.
 - If through a Special Attack or Defence a model would be moved past the edge of the game area then it stops when its base touches the edge of the board.
 - If through a movement from a Slam Attack, Throw Attack or Throw Defence a model is moved into BtB with another model then, dependant on the two models’ Sizes, one of the following occurs:
-- If the model contacted is of equal size, the moving model stops at the point at which it entered BtB, and both models become Prone. 
+- If the model contacted is of equal size, the moving model stops at the point at which it entered BtB, and both models become Prone.
 - If the model contacted is of a larger Size, the moving model stops at the point at which it entered BtB and becomes Prone.
 - If the model contacted is of a smaller Size, the moving model continues its movement and pushes the model it contacted directly away from the point of contact a distance that would enable the moving model to continue its movement without contacting the model. Both models become Prone at the end of the movement.
 - If through a movement from a Push Attack, Forceback Attack, Drag Defence or Push Defence a model is moved into BtB with another model then the moving model stops at the point at which it entered BtB.
@@ -758,13 +758,13 @@ Counterstrike Defence: If this Defence is successful, and the Attacker allocated
 
 Drag Defence: If the Defence is successful, move the Defender 1” away from the Attacker, then move the Attacker directly into BtB with the Defender.
 
-Forceback Defence: If the Defence is successful, move the Attacker 1” directly away from the Defender, then move the Defender directly into BtB with the Attacker. 
+Forceback Defence: If the Defence is successful, move the Attacker 1” directly away from the Defender, then move the Defender directly into BtB with the Attacker.
 
 Grapple Defence: If the Defence is successful, the Attacker becomes Held. Place a Held marker on the Attacker
 
 Push Defence: If the Defence is successful, move the Attacker directly away from the Defender until it leaves the defender’s ZoC.
 
-Sidestep Defence: If the Defence is successful, the Defender leaves BtB and then moves away from the Attacker until the Defender leaves the Attacker’s ZoC, at which point its movement ends. 
+Sidestep Defence: If the Defence is successful, the Defender leaves BtB and then moves away from the Attacker until the Defender leaves the Attacker’s ZoC, at which point its movement ends.
 
 Sweep Defence: If the Defence is successful, then the Attacker becomes Prone.
 
@@ -808,7 +808,7 @@ The Attacker may choose the movement path.
 After the Damage Roll, the damage is halved (rounding down).
 
 # Model States
-A model may enter into a number of different States during a game. A model may be in more than one State at a time. Markers should be placed on a model, or its profile card to indicate a model’s State to the Opponent. 
+A model may enter into a number of different States during a game. A model may be in more than one State at a time. Markers should be placed on a model, or its profile card to indicate a model’s State to the Opponent.
 
 Berserk: While a model has a Berserk marker, it gains the Aggressive trait. When a model gains a Berserk marker, it gains an Impetuous marker.
 When a Berserk model activates check the following steps in order until one applies:
@@ -911,7 +911,7 @@ Some models can increase a Statistic through the spending of Ki Tokens in the Ma
 The cost of a Ki Feat or Ki Boost cannot be reduced below one Ki Token by standard modifiers, but the cost can be reduced to zero if an effect states explicitly it reduces the cost to zero. 
 The increase to the Statistic lasts until the current test or movement is resolved. Each Ki Boost is considered a separate Ki Feat.
 
-Example: Sakura targets Kenko with her Psychic Venom Ki Feat. As she began her activation in his back arc, and Kenko never had LoS to her, Kenko is surprised and cannot use his Ki Statistic Boost to defend himself. 
+Example: Sakura targets Kenko with her Psychic Venom Ki Feat. As she began her activation in his back arc, and Kenko never had LoS to her, Kenko is surprised and cannot use his Ki Statistic Boost to defend himself.
 
 # Traits
 Models in Bushido commonly have one or more traits. Some traits have X, Y or Descriptor values in brackets after the trait’s name. This value can be a positive or negative modifier, a range or a Descriptor the trait affects. A Descriptor can be almost anything, from a profile name, Model type, a trait, a kind of Test or a state. When text exactly matches a Descriptor, it is considered a valid condition for game effects.
@@ -997,7 +997,7 @@ Camouflage (X”): While this model is benefiting from Cover, Enemy models canno
 At the start of an Enemy model’s activation, if this model is benefiting from Cover, that Enemy model cannot Target or enter BtB with this model unless the Enemy model is within X” of this model at the start of the Enemy model’s activation.
 
 Example: Model A Camouflage (2”).
-Model B starts more than 2” away from model A, and so cannot Target model A, even if it moves to within 2” of it.
+Model B starts more than 2” away from model A, and so cannot Target model A, even if it moves within 2” of it.
 Model C is within 2” so can Target model A.
 Model D is more than 2” from model A but model A has no Cover from model D so model D can Target model A.
 
@@ -1036,7 +1036,7 @@ Dodge (X): During a Melee Exchange this model may pick up to X Attack dice rolle
 
 Dread (X): Models making a fear test against this model reduce their Ki statistic by X. This cannot reduce the number of dice rolled below 1 dice. Enemy models with Fear values equal to or higher than this model’s fear value do not automatically pass their fear tests against this model.
 
-Durable: When this model would suffer more than one wound, it only suffers one wound. This trait is resolved after the Tough trait. 
+Durable: When this model would suffer more than one wound, it only suffers one wound. This trait is resolved after the Tough trait.
 
 ### E
 Endurance: This model suffers no Melee penalty for being Exhausted.
@@ -1171,8 +1171,10 @@ Soulless: This model automatically succeeds at Fear tests and has Immune [Bleed,
 
 Spirit (X): This model modifies its Ki Statistic by X when resolving Ki tests or when attempting to Target or move into BtB with a Disguised model. Apply this before gaining any dice for having zero or lower Ki Statistic in any test. This model’s Ki Statistic may exceed double the base Statistic by X, models with Ki Statistic 0 may Ki Boost to 1 and then add X.
 
-Split Attack: When this model declares a Melee or Charge action it may move into BtB with 2 or more enemy models and ignores their ZoC as long as it is moving closer to a point where it is in BtB with both. After its movement, if it is in BtB with two or more Enemy models, the player may resolve a Melee Exchange with two or more of those models. This model has a penalty of -1 dice for each additional melee exchange it will make this activation on all its melee exchanges. Resolve them in the order the Controlling player chooses (so that the model will be left facing the enemy model it fought last). 
-Remove Activation Counter(s) from this model only after the last Melee Exchange.Steadfast: This model may freely choose how to allocate dice in Melee Exchanges when Frightened. If this model declares an action to bring it BtB with a model with Fear and fails the fear test, it must continue with the action and becomes Frightened. While Frightened this model may still declare actions against and enter BtB with models with Fear.
+Split Attack: When this model declares a Melee or Charge action it may move into BtB with 2 or more enemy models and ignores their ZoC as long as it is moving closer to a point where it is in BtB with both. After its movement, if it is in BtB with two or more Enemy models, the player may resolve a Melee Exchange with two or more of those models. This model has a penalty of -1 dice for each additional melee exchange it will make this activation on all its melee exchanges. Resolve them in the order the Controlling player chooses (so that the model will be left facing the enemy model it fought last).
+Remove Activation Counter(s) from this model only after the last Melee Exchange.
+
+Steadfast: This model may freely choose how to allocate dice in Melee Exchanges when Frightened. If this model declares an action to bring it BtB with a model with Fear and fails the fear test, it must continue with the action and becomes Frightened. While Frightened this model may still declare actions against and enter BtB with models with Fear.
 
 Example: Kenko has Split Attack. If he moves into melee with 2 models and performs a melee exchange against both, he takes a -1 dice penalty on both exchanges as he is making one additional exchange. Next turn a third enemy model moves into BtB with Kenko. If Kenko makes a split attack against all three models, he will take a -2 Dice penalty on all three melee exchanges.
 
@@ -1227,7 +1229,7 @@ Can the Terrain element be seen through when drawing Line of Sight?
 Clear: No effect on LoS.
 Blocking: No LoS can be drawn through any part of the Terrain element that is considered Blocking. If any Los is blocked to the target by Blocking terrain (Assuming there is a clear LoS past the terrain) then the target benefits from Cover if it is within 1” of the terrain piece.
 Obscuring: If any Line of Sight to any part of a target’s base is drawn through Obscuring terrain, then the target benefits from cover if it is within 1” of the terrain piece.
-Enhancing: Models on hilly terrain or otherwise elevated gain Reach on their Melee Weapons for melee exchanges where a non-Cloudwalk opponent did not begin it’s activation on the same terrain as they hold the high ground. In addition, they ignore models and terrain smaller than the Enhancing terrain for LoS (Though such terrain can still provide cover if a LoS passes through them). 
+Enhancing: Models on hilly terrain or otherwise elevated gain Reach on their Melee Weapons for melee exchanges where a non-Cloudwalk opponent did not begin it’s activation on the same terrain as they hold the high ground. In addition, they ignore models and terrain smaller than the Enhancing terrain for LoS (Though such terrain can still provide cover if a LoS passes through them).
 
 ## Size
 A terrain element’s size is what is physically represented on the table - but should be agreed upon by both players before the start of the game if either player considers it likely that the Size of a particular piece of terrain might be unclear. 
@@ -1280,7 +1282,7 @@ Players can interact with Scenario Objectives by taking Simple or Complex Scenar
 If there is more than one Interaction available to the model, then the controlling player decides which to use. Only those Interactions outlined in a Scenario can be used. The Interactions will appear as Keywords and are as follows:
 Influence (Simple/Complex): The player changes the Alignment of a Scenario Objective one Degree (Enemy - Neutral - Friendly).
 
-Prayer (X) (Simple/Complex): Each player starts the game with X Prayer Tokens. These are placed in a Prayer Pool for each player. The player removes one Prayer Token from their Prayer Pool and scores Scenario Points (SP’s). The number of SP’s scored depends on the Alignment of the Scenario Objective the model is in BtB with. 
+Prayer (X) (Simple/Complex): Each player starts the game with X Prayer Tokens. These are placed in a Prayer Pool for each player. The player removes one Prayer Token from their Prayer Pool and scores Scenario Points (SP’s). The number of SP’s scored depends on the Alignment of the Scenario Objective the model is in BtB with.
 
 Friendly = 1 Scenario Point
 Neutral = 2 Scenario Points
