@@ -6,6 +6,7 @@ Minimal markdown has been used to format headings and tables, to aid navigation,
 - First version printed 2019
 - Revision 1 (R1) printed Q4 2021
 - Revision 2 (R2) printed Q4 2025
+- "Live" file is R2 with small updates. It has not been printed, and may never be printed. This is the only file accepting pull requests.
 
 The following items have been removed:
 - table of contents
